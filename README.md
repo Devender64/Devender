@@ -5,7 +5,7 @@
 -🌱 I'm learning Rust and Cloud DevOps
 
 ## 🛠 Skills
-Python | HTML | AI tools
+python | HTML |AI Tools | Cloud DevOps
 
 ## 📊 GitHub Stats
 ![Devnder's Github status](https://github.com/Devender64/Devender/edit/main/README.md)
